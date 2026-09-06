@@ -1,5 +1,5 @@
 # Inventory Cost and Financial Performance Analysis
-
+![Inventory Cost and Financial Performance Dashboard](Inventory_Cost_Dashboard_Anan_Final.png)
 ## Project Overview
 
 Inventory management directly affects a company's working capital, product availability, operating costs, and customer satisfaction.
